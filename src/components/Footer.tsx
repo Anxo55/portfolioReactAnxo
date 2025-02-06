@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="bg-white border-gray-200 dark:bg-gray-900 fixed bottom-0 left-0 z-20 w-full p-4 border-t border-gray-200 shadow-sm md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800 dark:border-gray-600">
+    <footer className="bg-white border-gray-200 dark:bg-gray-900 fixed bottom-0 left-0 z-20 w-full p-4 border-t border-gray-200 shadow-sm md:flex md:items-center md:justify-between md:p-4 dark:bg-gray-800 dark:border-gray-600">
       <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
         © 2025{" "}
         <a href="https://flowbite.com/" className="hover:underline">
@@ -18,7 +18,7 @@ export default function Footer() {
             target="_blank"
           >
             <svg
-              className="w-6 h-6 text-gray-800 dark:text-white"
+              className="w-6 h-6 text-gray-800 dark:text-white hover:text-red-500"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -42,7 +42,7 @@ export default function Footer() {
             target="_blank"
           >
             <svg
-              className="w-6 h-6 text-gray-800 dark:text-white"
+              className="w-6 h-6 text-gray-800 dark:text-white hover:text-black"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -65,7 +65,7 @@ export default function Footer() {
             target="_blank"
           >
             <svg
-              className="w-6 h-6 text-gray-800 dark:text-white"
+              className="w-6 h-6 text-gray-800 dark:text-white hover:text-blue-600"
               aria-hidden="true"
               xmlns="http://www.w3.org/2000/svg"
               width="24"
