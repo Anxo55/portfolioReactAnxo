@@ -14,7 +14,7 @@ export default function projects() {
           <div className="p-5">
             <a href="#">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                Noteworthy technology acquisitions 2021
+                Camisetas deportivas
               </h5>
             </a>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -22,8 +22,9 @@ export default function projects() {
               far, in reverse chronological order.
             </p>
             <a
-              href="#"
+              href="https://github.com/Anxo55/Camisetas-deportivas"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 "
+              target="_blank"
             >
               Code
               <svg
@@ -40,8 +41,9 @@ export default function projects() {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://anxo55.github.io/Camisetas-deportivas/"
               className="inline-flex items-center m-4 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 "
+              target="_blank"
             >
               Page
               <svg
@@ -55,9 +57,9 @@ export default function projects() {
               >
                 <path
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M10 3v4a1 1 0 0 1-1 1H5m5 4-2 2 2 2m4-4 2 2-2 2m5-12v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7.914a1 1 0 0 1 .293-.707l3.914-3.914A1 1 0 0 1 9.914 3H18a1 1 0 0 1 1 1Z"
                 />
               </svg>
@@ -75,7 +77,7 @@ export default function projects() {
           <div className="p-5">
             <a href="#">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                Noteworthy technology acquisitions 2021
+                Toca piano
               </h5>
             </a>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -83,8 +85,9 @@ export default function projects() {
               far, in reverse chronological order.
             </p>
             <a
-              href="#"
+              href="https://github.com/Anxo55/tocarPiano"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Code
               <svg
@@ -101,8 +104,9 @@ export default function projects() {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://anxo55.github.io/tocarPiano/"
               className="inline-flex items-center m-4 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Page
               <svg
@@ -116,9 +120,9 @@ export default function projects() {
               >
                 <path
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M10 3v4a1 1 0 0 1-1 1H5m5 4-2 2 2 2m4-4 2 2-2 2m5-12v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7.914a1 1 0 0 1 .293-.707l3.914-3.914A1 1 0 0 1 9.914 3H18a1 1 0 0 1 1 1Z"
                 />
               </svg>
@@ -136,7 +140,7 @@ export default function projects() {
           <div className="p-5">
             <a href="#">
               <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                Noteworthy technology acquisitions 2021
+                To-do-list
               </h5>
             </a>
             <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -144,8 +148,9 @@ export default function projects() {
               far, in reverse chronological order.
             </p>
             <a
-              href="#"
+              href="https://github.com/Anxo55/Todo-list"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Code
               <svg
@@ -162,8 +167,9 @@ export default function projects() {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://anxo55.github.io/Todo-list/"
               className="inline-flex items-center m-4 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 "
+              target="_blank"
             >
               Page
               <svg
@@ -177,9 +183,9 @@ export default function projects() {
               >
                 <path
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M10 3v4a1 1 0 0 1-1 1H5m5 4-2 2 2 2m4-4 2 2-2 2m5-12v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7.914a1 1 0 0 1 .293-.707l3.914-3.914A1 1 0 0 1 9.914 3H18a1 1 0 0 1 1 1Z"
                 />
               </svg>
@@ -207,8 +213,9 @@ export default function projects() {
               far, in reverse chronological order.
             </p>
             <a
-              href="#"
+              href="https://github.com/Anxo55/Calculadora-funcional"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Code
               <svg
@@ -225,8 +232,9 @@ export default function projects() {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://anxo55.github.io/Calculadora-funcional/"
               className="inline-flex items-center m-4 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Page
               <svg
@@ -240,9 +248,9 @@ export default function projects() {
               >
                 <path
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M10 3v4a1 1 0 0 1-1 1H5m5 4-2 2 2 2m4-4 2 2-2 2m5-12v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7.914a1 1 0 0 1 .293-.707l3.914-3.914A1 1 0 0 1 9.914 3H18a1 1 0 0 1 1 1Z"
                 />
               </svg>
@@ -268,8 +276,9 @@ export default function projects() {
               far, in reverse chronological order.
             </p>
             <a
-              href="#"
+              href="https://github.com/Anxo55/Portfolio-Personal"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Code
               <svg
@@ -286,8 +295,9 @@ export default function projects() {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://anxo55.github.io/Portfolio-Personal/contact.html"
               className="inline-flex items-center m-4 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Page
               <svg
@@ -301,9 +311,9 @@ export default function projects() {
               >
                 <path
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M10 3v4a1 1 0 0 1-1 1H5m5 4-2 2 2 2m4-4 2 2-2 2m5-12v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7.914a1 1 0 0 1 .293-.707l3.914-3.914A1 1 0 0 1 9.914 3H18a1 1 0 0 1 1 1Z"
                 />
               </svg>
@@ -329,8 +339,9 @@ export default function projects() {
               far, in reverse chronological order.
             </p>
             <a
-              href="#"
+              href="https://github.com/Anxo55/Api-rest-de-peliculas"
               className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Code
               <svg
@@ -347,8 +358,9 @@ export default function projects() {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://anxo55.github.io/Api-rest-de-peliculas/"
               className="inline-flex items-center m-4 px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-white hover:text-blue-700 border-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800"
+              target="_blank"
             >
               Page
               <svg
@@ -362,9 +374,9 @@ export default function projects() {
               >
                 <path
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M10 3v4a1 1 0 0 1-1 1H5m5 4-2 2 2 2m4-4 2 2-2 2m5-12v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V7.914a1 1 0 0 1 .293-.707l3.914-3.914A1 1 0 0 1 9.914 3H18a1 1 0 0 1 1 1Z"
                 />
               </svg>

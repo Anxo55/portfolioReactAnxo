@@ -15,7 +15,7 @@ export default function Introduction() {
     <div className="flex flex-col md:flex-row items-center justify-center min-h-screen bg-gray-800 text-white p-4 font-serif">
       <div className="relative w-40 h-40 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-gray-600 shadow-lg md:mr-8">
         <img
-          src="src/assets/85c2hg4i.png"
+          src="/85c2hg4i.png"
           alt="Anxo Campos"
           className="w-full h-full object-cover"
         />
