@@ -29,7 +29,7 @@ export default function Introduction() {
           Anxo Campos
         </motion.h1>
         <h2 className="text-xl md:text-2xl text-gray-400 mt-2">
-          Desarrollador Front-End
+          Desarrollador Front-End Junior
         </h2>
         <p className="text-gray-300 mt-4">
           Adoro el mundo del desarrollo web. Siempre estoy aprendiendo y

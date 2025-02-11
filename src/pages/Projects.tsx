@@ -4,39 +4,45 @@ export default function Projects() {
       <div className="flex flex-wrap justify-center gap-5 max-w-6xl">
         <ProjectCard
           title="Camisetas deportivas"
-          description="Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+          description="Pagina web desarollada con Html, css y JavaScript. Basada en una pagina de venta de camisetas deportivas de segunda mano"
           codeLink="https://github.com/Anxo55/Camisetas-deportivas"
           pageLink="https://anxo55.github.io/Camisetas-deportivas/"
+          imageSrc="/public/Camisetas.jpg"
         />
         <ProjectCard
           title="Toca piano"
-          description="Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+          description="Creada con vite en vanilla, usando html css y JavaScript. Funcionalidad para el efecto de pulsado de la tecla y sonido."
           codeLink="https://github.com/Anxo55/tocarPiano"
           pageLink="https://anxo55.github.io/tocarPiano/"
+          imageSrc="/public/Toca-piano.JPG"
         />
         <ProjectCard
           title="To-do-list"
-          description="Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+          description="Diseñada con html css y JavaScipt. Pagina sencilla para la anotacion de tareas pendientess."
           codeLink="https://github.com/Anxo55/Todo-list"
           pageLink="https://anxo55.github.io/Todo-list/"
+          imageSrc="/public/To-do-list.jpg"
         />
         <ProjectCard
           title="Calculadora funcional"
-          description="Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
+          description="Pagina hecha con html css y JavaScript. Funcionalidad de la calculadora con la devolucion correcta de los resultado"
           codeLink="https://github.com/Anxo55/Calculadora-funcional"
           pageLink="https://anxo55.github.io/Calculadora-funcional/"
+          imageSrc="/public/Calculadora.jpg"
         />
         <ProjectCard
-          title="Notas rápidas"
-          description="Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
-          codeLink="https://github.com/Anxo55/Notas-rapidas"
-          pageLink="https://anxo55.github.io/Notas-rapidas/"
+          title="Api Rest Peliculas"
+          description="Diseñada con html, css y JavaScript. Accediendo a una api gratutita hacemos el diseño y mostramos las busquedas de peliculas."
+          codeLink="https://github.com/Anxo55/Api-rest-de-peliculas"
+          pageLink="https://anxo55.github.io/Api-rest-de-peliculas/"
+          imageSrc="/public/Api-peliculas.JPG"
         />
         <ProjectCard
-          title="Lista de compras"
-          description="Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order."
-          codeLink="https://github.com/Anxo55/Lista-de-compras"
-          pageLink="https://anxo55.github.io/Lista-de-compras/"
+          title="Portfolio"
+          description="Portfolio diseñado con Bootstrap. Plantilla con la que utilice los componentes de html y css para el diseño de un portfolio personal."
+          codeLink="https://github.com/Anxo55/Portfolio-Personal"
+          pageLink="https://anxo55.github.io/Portfolio-Personal/"
+          imageSrc="/public/Portfolio-personal.JPG"
         />
       </div>
     </div>
@@ -48,13 +54,14 @@ interface ProjectCardProps {
   description: string;
   codeLink: string;
   pageLink: string;
+  imageSrc: string; // Nueva propiedad para la imagen
 }
 
-function ProjectCard({ title, description, codeLink, pageLink }: ProjectCardProps) {
+function ProjectCard({ title, description, codeLink, pageLink, imageSrc }: ProjectCardProps) {
   return (
     <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700 p-5">
       <a href={pageLink} target="_blank">
-        <img className="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt={title} />
+        <img className="rounded-t-lg w-full h-48 object-cover" src={imageSrc} alt={title} />
       </a>
       <div className="p-5">
         <a href={pageLink} target="_blank">
