@@ -7,42 +7,42 @@ export default function Projects() {
           description="Pagina web desarollada con Html, css y JavaScript. Basada en una pagina de venta de camisetas deportivas de segunda mano"
           codeLink="https://github.com/Anxo55/Camisetas-deportivas"
           pageLink="https://anxo55.github.io/Camisetas-deportivas/"
-          imageSrc="/public/Camisetas.jpg"
+          imageSrc="/Camisetas.jpg"
         />
         <ProjectCard
           title="Toca piano"
           description="Creada con vite en vanilla, usando html css y JavaScript. Funcionalidad para el efecto de pulsado de la tecla y sonido."
           codeLink="https://github.com/Anxo55/tocarPiano"
           pageLink="https://anxo55.github.io/tocarPiano/"
-          imageSrc="/public/Toca-piano.JPG"
+          imageSrc="/Toca-piano.JPG"
         />
         <ProjectCard
           title="To-do-list"
           description="Diseñada con html css y JavaScipt. Pagina sencilla para la anotacion de tareas pendientess."
           codeLink="https://github.com/Anxo55/Todo-list"
           pageLink="https://anxo55.github.io/Todo-list/"
-          imageSrc="/public/To-do-list.jpg"
+          imageSrc="/To-do-list.jpg"
         />
         <ProjectCard
           title="Calculadora funcional"
           description="Pagina hecha con html css y JavaScript. Funcionalidad de la calculadora con la devolucion correcta de los resultado"
           codeLink="https://github.com/Anxo55/Calculadora-funcional"
           pageLink="https://anxo55.github.io/Calculadora-funcional/"
-          imageSrc="/public/Calculadora.jpg"
+          imageSrc="/Calculadora.jpg"
         />
         <ProjectCard
           title="Api Rest Peliculas"
           description="Diseñada con html, css y JavaScript. Accediendo a una api gratutita hacemos el diseño y mostramos las busquedas de peliculas."
           codeLink="https://github.com/Anxo55/Api-rest-de-peliculas"
           pageLink="https://anxo55.github.io/Api-rest-de-peliculas/"
-          imageSrc="/public/Api-peliculas.JPG"
+          imageSrc="/Api-peliculas.JPG"
         />
         <ProjectCard
           title="Portfolio"
           description="Portfolio diseñado con Bootstrap. Plantilla con la que utilice los componentes de html y css para el diseño de un portfolio personal."
           codeLink="https://github.com/Anxo55/Portfolio-Personal"
           pageLink="https://anxo55.github.io/Portfolio-Personal/"
-          imageSrc="/public/Portfolio-personal.JPG"
+          imageSrc="/Portfolio-personal.JPG"
         />
       </div>
     </div>
