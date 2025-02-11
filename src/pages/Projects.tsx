@@ -7,7 +7,7 @@ export default function Projects() {
           description="Pagina web desarollada con Html, css y JavaScript. Basada en una pagina de venta de camisetas deportivas de segunda mano"
           codeLink="https://github.com/Anxo55/Camisetas-deportivas"
           pageLink="https://anxo55.github.io/Camisetas-deportivas/"
-          imageSrc="/Camisetas.jpg"
+          imageSrc="/Camisetas.JPG"
         />
         <ProjectCard
           title="Toca piano"
@@ -21,14 +21,14 @@ export default function Projects() {
           description="Diseñada con html css y JavaScipt. Pagina sencilla para la anotacion de tareas pendientess."
           codeLink="https://github.com/Anxo55/Todo-list"
           pageLink="https://anxo55.github.io/Todo-list/"
-          imageSrc="/To-do-list.jpg"
+          imageSrc="/To-do-list.JPG"
         />
         <ProjectCard
           title="Calculadora funcional"
           description="Pagina hecha con html css y JavaScript. Funcionalidad de la calculadora con la devolucion correcta de los resultado"
           codeLink="https://github.com/Anxo55/Calculadora-funcional"
           pageLink="https://anxo55.github.io/Calculadora-funcional/"
-          imageSrc="/Calculadora.jpg"
+          imageSrc="/Calculadora.JPG"
         />
         <ProjectCard
           title="Api Rest Peliculas"
