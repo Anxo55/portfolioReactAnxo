@@ -1,5 +1,9 @@
-// ImageComponent.js
-const ImageComponent = ({ src, alt }) => (
+interface ImageComponentProps {
+    src: string;
+    alt: string;
+  }
+  
+  const ImageComponent: React.FC<ImageComponentProps> = ({ src, alt }) => (
     <img
       src={src}
       alt={alt}
